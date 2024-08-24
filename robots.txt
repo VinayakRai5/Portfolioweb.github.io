@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Portfolioweb.github.io/sitemap.xml
+Sitemap: https://VinayakRai5.github.io/sitemap.xml
